@@ -1,3 +1,7 @@
+# Docker React
+
+Following: https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
